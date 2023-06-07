@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+}
+
+h2 {
+    font-size: 100px;
+    color: white;
+}
+
+button {
+    font-size: 20px;
+    border-radius: 30px;
+    border: none;
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+.disminuir:hover {
+    background-color: rgb(124, 38, 38);
+    color: white;
+}
+
+.aumentar:hover {
+    background-color: rgb(48, 119, 48);
+    color: white;
+}
+
+.resetear:hover {
+    background-color: rgb(14, 13, 13);
+    color: white;
+}
